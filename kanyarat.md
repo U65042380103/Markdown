@@ -1,14 +1,17 @@
 # Miss Kanyarat Thammachot
-> Computer Science
+> **Computer Science**
 >
-> **Uttaradit Rajabahth Univesity**
+> ***Uttaradit Rajabahth Univesity***
 ## My favorite food
 - Papaya Salad
 - Noodles
 - Pad Thai
-```
+```python
 print "Hello World"
+a=5
+b=10
+print a+b
+
 ```
-`` show `barktric`
-##### My favorite 
-[Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ My nickname is  `Nudpob`
+##### My favorite - [Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
