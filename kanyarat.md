@@ -10,5 +10,5 @@
 print "Hello World"
 ```
 `` show `barktric`
-##### My favorite [Song]
-[Song] : https://www.youtube.com/watch?v=dQw4w9WgXcQ
+##### My favorite 
+[Song](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
